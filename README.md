@@ -10,3 +10,5 @@ BE:
 
   1. pip install django, djangoframework, django-cors-header, opencv-python, numpy, tensorflow //forget create env maybe loss a few
   2. py manage.py runserver
+
+Accuracy model ~90%
