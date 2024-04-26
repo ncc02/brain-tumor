@@ -8,5 +8,5 @@ FE: // So many install for ReactJS while if use HTML not need
    
 BE:
 
-  1. pip install django, djangoframework, django-cors-header, opencv-python, numpy, tensorflow //forget create env
+  1. pip install django, djangoframework, django-cors-header, opencv-python, numpy, tensorflow //forget create env maybe loss a few
   2. py manage.py runserver
