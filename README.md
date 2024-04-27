@@ -1,7 +1,9 @@
-![Video Demo](https://github.com/ncc02/brain-tumor/blob/main/brain-tumor.mkv)
+[Video demo sử dụng app để dự đoán](https://github.com/ncc02/brain-tumor/blob/main/brain-tumor.mkv)
 
 
-![image](https://github.com/ncc02/brain-tumor/assets/53702773/09f0f05c-89a4-4b41-b431-8d1df4143f0e)
+
+![Hình ảnh kết quả](https://github.com/ncc02/brain-tumor/assets/53702773/09f0f05c-89a4-4b41-b431-8d1df4143f0e)
+
 
 Hướng dẫn cài đặt và chạy:
 
