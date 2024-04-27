@@ -2,25 +2,34 @@
 
 Hướng dẫn cài đặt và chạy:
 
+
 * Frontend ReactJS: (Có thể sử dụng file index.html để thay thế)  
 
+
   STEP 1: Đầu tiên cần cài nodejs
+
 
   STEP 2: Cài đặt các thư viện cần thiết của react
 
       npm i
+
   STEP 3: Chạy react
 
       npm start
+
+  
 * Backend Django (Rest Framework): (Để tránh bị xung đột phiên bản nên cài môi trường ảo)
+
 
   STEP 1: Cài môi trường ảo bằng lệnh:
 
       py -m venv env
 
+
   STEP 2: Vào môi trường ảo (window)
 
       env\Scripts\activate
+
 
   STEP 3: Cài đặt các thư viện cần thiết:
 
@@ -30,6 +39,7 @@ Hướng dẫn cài đặt và chạy:
 
       pip install django djangorestframework django-cors-headers opencv-python numpy tensorflow
   
+
   STEP 4: Chạy server django tại thư mục có chứa file manage.py
 
       py manage.py runserver
