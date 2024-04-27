@@ -1,4 +1,4 @@
-![Video demo sử dụng app để dự đoán](https://github.com/ncc02/brain-tumor/blob/main/brain-tumor.mp4)
+![Video demo sử dụng app để dự đoán](brain-tumor.mp4)
 
 
 
