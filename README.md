@@ -1,12 +1,26 @@
 ![image](https://github.com/ncc02/brain-tumor/assets/53702773/09f0f05c-89a4-4b41-b431-8d1df4143f0e)
 
-FE: // many install for ReactJS while if use HTML not need  
+Hướng dẫn cài đặt và chạy:
 
-  0. install NodeJS 
-  1. npm i
-  2. npm start
+* Frontend ReactJS: // Có thể sử dụng file index.html để thay thế  
+
+  <1> Đầu tiên cần cài nodejs
+
+  <2> npm i (để cài đặt các thư viện cần thiết của react)
+
+  <3> npm start (để chạy react)
    
-BE:
+* Backend Django (Rest Framework): //Để tránh bị xung đột phiên bản nên cài môi trường ảo
 
-  1. pip install django djangorestframework django-cors-headers opencv-python numpy tensorflow
-  2. py manage.py runserver
+  <1> Cài môi trường ảo bằng lệnh (window):
+     py -m venv env
+
+  <2> Vào môi trường ảo
+     env\Scripts\activate
+
+  <3> Cài đặt các thư viện cần thiết:
+      pip install -r requirements.txt
+      // hoặc cài trực tiếp bằng: pip install django djangorestframework django-cors-headers opencv-python numpy tensorflow
+  
+  <4> Chạy server django tại thư mục có chứa file manage.py
+      py manage.py runserver
