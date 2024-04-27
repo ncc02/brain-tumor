@@ -20,6 +20,8 @@ Hướng dẫn cài đặt và chạy:
 
   <3> Cài đặt các thư viện cần thiết:
       pip install -r requirements.txt
+
+
       // hoặc cài trực tiếp bằng: pip install django djangorestframework django-cors-headers opencv-python numpy tensorflow
   
   <4> Chạy server django tại thư mục có chứa file manage.py
